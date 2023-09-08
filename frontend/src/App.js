@@ -14,7 +14,7 @@ import Footer from "./components/footer";
 
 function App() {
   return (
-    <Router basename="/NIKS-">
+    <Router basename="/niks">
       <Routes>
         <Route path='/' element={<Home />}/>
         <Route path='/results' element={<><Header /><Results /></>} />

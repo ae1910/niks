@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/niks/static/css/main.75650ed5.css",
+    "main.js": "/niks/static/js/main.ffd8ac4d.js",
+    "static/media/home.jpg": "/niks/static/media/home.b0c890e965653984e020.jpg",
+    "static/media/texture.jpg": "/niks/static/media/texture.035550f3f3b6373e7ea9.jpg",
+    "static/media/texture2.jpg": "/niks/static/media/texture2.b844f8ef6bf8b9887ad3.jpg",
+    "static/media/Spectral-Bold.ttf": "/niks/static/media/Spectral-Bold.79f938afd3444ee07b82.ttf",
+    "static/media/texture3.jpg": "/niks/static/media/texture3.043e5763c08d000ecc5a.jpg",
+    "static/media/Chivo-VariableFont_wght.ttf": "/niks/static/media/Chivo-VariableFont_wght.9d619c1c485f7d283613.ttf",
+    "static/media/combo.png": "/niks/static/media/combo.95bf845d45e1e0b4c280.png",
+    "static/media/about.jpg": "/niks/static/media/about.c7791aa29c69b3e19d75.jpg",
+    "static/media/oily.png": "/niks/static/media/oily.9f7e8ab63be7a683f155.png",
+    "static/media/aging.png": "/niks/static/media/aging.f97f21bae8f93cb0af3f.png",
+    "static/media/pores.png": "/niks/static/media/pores.ee00744a64c04eefd13a.png",
+    "static/media/eczema.png": "/niks/static/media/eczema.bbf877e0db64e63a2279.png",
+    "static/media/revicons.eot": "/niks/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/niks/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/dry.png": "/niks/static/media/dry.94ec51e952f7b7531b79.png",
+    "static/media/acne.png": "/niks/static/media/acne.7b17359909c4f6432dc8.png",
+    "static/media/uneven.png": "/niks/static/media/uneven.78ba8319c0ac2612eec5.png",
+    "static/media/revicons.woff": "/niks/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/niks/index.html",
+    "static/media/close.svg": "/niks/static/media/close.8eb6ea7120a8ea3f5e91.svg",
+    "static/media/menu.svg": "/niks/static/media/menu.749f1d171106d7f81cc5.svg",
+    "main.75650ed5.css.map": "/niks/static/css/main.75650ed5.css.map",
+    "main.ffd8ac4d.js.map": "/niks/static/js/main.ffd8ac4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75650ed5.css",
+    "static/js/main.ffd8ac4d.js"
+  ]
+}

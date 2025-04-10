@@ -28,4 +28,4 @@ https://github.com/user-attachments/assets/049a4b81-6e8c-4b76-af2b-fb4d7b4c8d22
 + Creating an accessible database
 + Following our projected timeline
 
-Created by [Ana Edwards](https://www.linkedin.com/in/ana-edwards-135b0928a/), Angela Pan, [Aurelia Littlepage](https://www.linkedin.com/in/aurelia-littlepage-482264357/), [Chelsea Wong](https://www.linkedin.com/in/chels-h-wong/), [Sonya Zhen](https://www.linkedin.com/in/sonyazhen123/)
+Created by [Ana Edwards](https://www.linkedin.com/in/ana-edwards-135b0928a/), Angela Pan, [Aurelia Littlepage](https://www.linkedin.com/in/aurelia-littlepage-482264357/), [Chelsea Wong](https://www.linkedin.com/in/chels-h-wong/), and [Sonya Zhen](https://www.linkedin.com/in/sonyazhen123/)
